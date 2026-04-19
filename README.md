@@ -57,6 +57,6 @@
 
 # Ресурспаки
 - [Create-Aeronautics-RU](https://github.com/mishtok125/Create-Aeronautics-RU)
-- [Unicue Dark](https://modrinth.com/mod/BaY1UdGV)
+- [Unique Dark](https://modrinth.com/mod/BaY1UdGV)
 - [Translations for Sodium](https://modrinth.com/mod/yfDziwn1)
 - [Xaero's World Map Translator](metamods.net/resourcepacks/xaeros-world-map-translator/download#resource-252761-download)
