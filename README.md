@@ -13,7 +13,7 @@
 - [Cloth Config v15 API](https://modrinth.com/mod/9s6osm5g) [15\.0\.140]
 - [Create](https://modrinth.com/mod/LNytGWDc) [6\.0\.9]
 - [Create Aeronautics](https://modrinth.com/mod/oWaK0Q19) [1\.0\.2]
-- [Create Big Cannons](https://www.curseforge.com/projects/646668) [5\.11\.2]  (Пока не включен)
+- [Create Big Cannons](https://cdn.discordapp.com/attachments/996634475578531960/1495423736130703390/createbigcannons-5.11.3-dev-mc.1.21.1-build.276.jar?ex=69e63162&is=69e4dfe2&hm=9d5a9af4b6e4dcbbd9118eec8d5f7a21352a5817e8f9a0df2a50e7ea94325eaf&) [5\.11\.2]  (Временная версия мода)
 - [Create Diesel Generators](https://modrinth.com/mod/ZM3tt6p1) [1\.21\.1\-1\.3\.11]
 - [Create Dynamic Light](https://modrinth.com/mod/evMQRxqV) [2\.0\.1]
 - [Create JEI Compat](https://modrinth.com/mod/1fkSpqmV) [1\.0\.2]

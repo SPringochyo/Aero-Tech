@@ -1,5 +1,7 @@
 [
   {"version":1},
+  {"ingredient":{"id":"create:experience_nugget"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_sa:heap_of_experience"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create_sa:copper_chestplate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create:precision_mechanism"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]
