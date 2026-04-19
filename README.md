@@ -1,6 +1,6 @@
 ![Иконка](icon.jpg)
 
-# Aero-Tech
+# Aero Tech
 Минималистичная сборка с Create Aeronautics на русском
 
 # Моды
