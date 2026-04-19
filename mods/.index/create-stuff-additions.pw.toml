@@ -1,0 +1,17 @@
+filename = 'create-stuff-additions1.21.1_v2.1.0e.jar'
+name = "Create Stuff 'N Additions"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1', '1.21.2', '1.21.2', '1.21.3', '1.21.3', '1.21.4', '1.21.4', '1.21.5', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.1.0.e'
+
+[download]
+hash = 'b259596a70dfd2e4f8449e9151e7c2816eeffa51a508f9f123e16e452024dafb0f9a81c23acf79bb5c32a030ccbf9175d29066a7ee1ed78053cad8e491715bf6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aq9qUUQG/versions/r1ark55O/create-stuff-additions1.21.1_v2.1.0e.jar'
+
+[update.modrinth]
+mod-id = 'aq9qUUQG'
+version = 'r1ark55O'

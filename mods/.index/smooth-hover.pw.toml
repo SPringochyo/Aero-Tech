@@ -1,0 +1,17 @@
+filename = 'smooth_hover-neoforge-1.0.jar'
+name = 'Smooth Hover'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0'
+
+[download]
+hash = '06444a144ca946b0c7eca9fb205973c32e01ab658d9256e5feb54318aef5bf22818fe57289f869fa4d0f9523b412e632b19c784a2e2ae045c777254f52cc7b58'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yQPKBg26/versions/jEeBcK87/smooth_hover-neoforge-1.0.jar'
+
+[update.modrinth]
+mod-id = 'yQPKBg26'
+version = 'jEeBcK87'

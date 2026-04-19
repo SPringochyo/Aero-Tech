@@ -1,0 +1,17 @@
+filename = 'create_factory-0.5a-1.21.1.jar'
+name = 'Create: Factory'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.5a-1.21.1'
+
+[download]
+hash = '5a79dfe5438b2cddd62b905da3e406227006360cbd8178d088b240a59d448a7cb63a24c9ee40c8e65d87bdda5988c4c3ed1f18a1459b313f4ea83a616c5a6add'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/j6Zt3N7W/versions/7wShOUOC/create_factory-0.5a-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'j6Zt3N7W'
+version = '7wShOUOC'

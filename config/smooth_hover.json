@@ -1,0 +1,7 @@
+{
+  "buttonTransitionSpeed": 0.4,
+  "imageButtonTransitionSpeed": 0.4,
+  "slotTransitionSpeed": 0.5,
+  "slotHighlightBehindItem": true,
+  "worldSelectionButtonTransitionSpeed": 0.4
+}
