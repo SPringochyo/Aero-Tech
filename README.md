@@ -1,4 +1,4 @@
-<img src="https://github.com/SPringochyo/Aero-Tech/blob/main/icon.png?raw=true">
+![Иконка](icon.jpg)
 
 # Aero-Tech
 Минималистичная сборка с Create Aeronautics на русском
