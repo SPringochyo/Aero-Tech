@@ -1,0 +1,17 @@
+filename = 'improvedmobs-1.21.1-1.15.2-neoforge.jar'
+name = 'Improved Mobs'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-1.15.2-neoforge'
+
+[download]
+hash = 'f8c651b710747868da6a774f0eff689bc59f8717e42c4252af3e2966243fc57d18b5c54c433ac822dc8c8a8ad7fdd350492d9582cfa9c7fc9deb31750d7c9ee8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/23MovWyi/versions/diNLFI6L/improvedmobs-1.21.1-1.15.2-neoforge.jar'
+
+[update.modrinth]
+mod-id = '23MovWyi'
+version = 'diNLFI6L'

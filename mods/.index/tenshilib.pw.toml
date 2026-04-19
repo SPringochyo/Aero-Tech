@@ -1,0 +1,17 @@
+filename = 'tenshilib-1.21.1-2.2.5-neoforge.jar'
+name = 'TenshiLib'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-2.2.5-neoforge'
+
+[download]
+hash = '1c42278ca34cbb32c2c6d2bf69e3cb8d68f9527aeacfca47b929c32f9155f89fe21815e6d6801c618f75c003690251119a9f56c0348486038e119f3ee26860ad'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/P2rffivS/versions/d0ACaYEQ/tenshilib-1.21.1-2.2.5-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'P2rffivS'
+version = 'd0ACaYEQ'

@@ -1,0 +1,15 @@
+*
+
+!config/
+!config/**
+
+!mods/
+!mods/**
+
+!resourcepacks/
+!resourcepacks/**
+
+!.gitignore
+!icon.jpg
+!options.txt
+!README.md

@@ -1,0 +1,445 @@
+{
+  "version": 2,
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "Value is the item. It also accepts item components. The default config has an example with a harming potion",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": [
+    {
+      "value": "create:cardboard_sword",
+      "weight": 150685,
+      "quality": 0.25
+    },
+    {
+      "value": "create_sa:blazing_axe",
+      "weight": 2159,
+      "quality": 510.896
+    },
+    {
+      "value": "create_sa:blazing_cleaver",
+      "weight": 10185,
+      "quality": 458.32922
+    },
+    {
+      "value": "create_sa:brass_axe",
+      "weight": 1802,
+      "quality": 513.3
+    },
+    {
+      "value": "create_sa:brass_sword",
+      "weight": 7534,
+      "quality": 475.37204
+    },
+    {
+      "value": "create_sa:copper_axe",
+      "weight": 3723,
+      "quality": 500.42786
+    },
+    {
+      "value": "create_sa:copper_sword",
+      "weight": 13354,
+      "quality": 438.3579
+    },
+    {
+      "value": "create_sa:rose_quartz_axe",
+      "weight": 1717,
+      "quality": 513.8697
+    },
+    {
+      "value": "create_sa:rose_quartz_sword",
+      "weight": 4480,
+      "quality": 495.3996
+    },
+    {
+      "value": "create_sa:zinc_axe",
+      "weight": 1834,
+      "quality": 513.0833
+    },
+    {
+      "value": "create_sa:zinc_sword",
+      "weight": 12335,
+      "quality": 444.72824
+    },
+    {
+      "value": "minecraft:crossbow",
+      "weight": 7005,
+      "quality": 478.81342
+    },
+    {
+      "value": "minecraft:diamond_axe",
+      "weight": 1730,
+      "quality": 513.78357
+    },
+    {
+      "value": "minecraft:diamond_sword",
+      "weight": 3252,
+      "quality": 503.56903
+    },
+    {
+      "value": "minecraft:fishing_rod",
+      "weight": 9729,
+      "quality": 461.23807
+    },
+    {
+      "value": "minecraft:flint_and_steel",
+      "weight": 10763,
+      "quality": 454.6494
+    },
+    {
+      "value": "minecraft:golden_axe",
+      "weight": 3737,
+      "quality": 500.33008
+    },
+    {
+      "value": "minecraft:golden_sword",
+      "weight": 13545,
+      "quality": 437.16867
+    },
+    {
+      "value": "minecraft:iron_axe",
+      "weight": 1827,
+      "quality": 513.131
+    },
+    {
+      "value": "minecraft:iron_sword",
+      "weight": 5313,
+      "quality": 489.8981
+    },
+    {
+      "value": "minecraft:netherite_sword",
+      "weight": 2287,
+      "quality": 510.02963
+    },
+    {
+      "value": "minecraft:stone_axe",
+      "weight": 1872,
+      "quality": 512.8232
+    },
+    {
+      "value": "minecraft:stone_sword",
+      "weight": 8948,
+      "quality": 466.245
+    },
+    {
+      "value": "minecraft:trident",
+      "weight": 1703,
+      "quality": 513.9649
+    },
+    {
+      "value": "minecraft:wooden_axe",
+      "weight": 3759,
+      "quality": 500.18903
+    },
+    {
+      "value": "minecraft:wooden_sword",
+      "weight": 13827,
+      "quality": 435.41254
+    }
+  ],
+  "OFFHAND": [
+    {
+      "value": "minecraft:bow",
+      "weight": 676,
+      "quality": 2.8518927
+    },
+    {
+      "value": {
+        "id": "minecraft:lingering_potion",
+        "components": {
+          "minecraft:potion_contents": {
+            "potion": "minecraft:harming"
+          }
+        }
+      },
+      "weight": 686,
+      "quality": 2.817998
+    },
+    {
+      "value": "minecraft:shield",
+      "weight": 698,
+      "quality": 2.782087
+    },
+    {
+      "value": "minecraft:snowball",
+      "weight": 1900,
+      "quality": 0.25
+    },
+    {
+      "value": {
+        "id": "minecraft:splash_potion",
+        "components": {
+          "minecraft:potion_contents": {
+            "potion": "minecraft:harming"
+          }
+        }
+      },
+      "weight": 686,
+      "quality": 2.817998
+    },
+    {
+      "value": "minecraft:tnt",
+      "weight": 474,
+      "quality": 3.5519757
+    }
+  ],
+  "FEET": [
+    {
+      "value": "create:cardboard_boots",
+      "weight": 4055,
+      "quality": 0.25
+    },
+    {
+      "value": "create:copper_diving_boots",
+      "weight": 3529,
+      "quality": 0.4928437
+    },
+    {
+      "value": "create:netherite_diving_boots",
+      "weight": 547,
+      "quality": 3.409171
+    },
+    {
+      "value": "create_sa:brass_boots",
+      "weight": 1519,
+      "quality": 2.1712422
+    },
+    {
+      "value": "create_sa:copper_boots",
+      "weight": 3028,
+      "quality": 0.79978955
+    },
+    {
+      "value": "create_sa:slime_boots",
+      "weight": 1737,
+      "quality": 1.9310373
+    },
+    {
+      "value": "create_sa:zinc_boots",
+      "weight": 1556,
+      "quality": 2.1293206
+    },
+    {
+      "value": "minecraft:chainmail_boots",
+      "weight": 2428,
+      "quality": 1.2648419
+    },
+    {
+      "value": "minecraft:diamond_boots",
+      "weight": 606,
+      "quality": 3.3265724
+    },
+    {
+      "value": "minecraft:golden_boots",
+      "weight": 2349,
+      "quality": 1.3334087
+    },
+    {
+      "value": "minecraft:iron_boots",
+      "weight": 1334,
+      "quality": 2.3855245
+    },
+    {
+      "value": "minecraft:leather_boots",
+      "weight": 2721,
+      "quality": 1.0239681
+    },
+    {
+      "value": "minecraft:netherite_boots",
+      "weight": 547,
+      "quality": 3.409171
+    }
+  ],
+  "LEGS": [
+    {
+      "value": "create:cardboard_leggings",
+      "weight": 13026,
+      "quality": 0.25
+    },
+    {
+      "value": "create_sa:brass_leggings",
+      "weight": 945,
+      "quality": 80.69682
+    },
+    {
+      "value": "create_sa:copper_leggings",
+      "weight": 955,
+      "quality": 80.57025
+    },
+    {
+      "value": "create_sa:zinc_leggings",
+      "weight": 949,
+      "quality": 80.63808
+    },
+    {
+      "value": "minecraft:chainmail_leggings",
+      "weight": 1294,
+      "quality": 76.35314
+    },
+    {
+      "value": "minecraft:diamond_leggings",
+      "weight": 498,
+      "quality": 86.42619
+    },
+    {
+      "value": "minecraft:golden_leggings",
+      "weight": 2248,
+      "quality": 65.09781
+    },
+    {
+      "value": "minecraft:iron_leggings",
+      "weight": 796,
+      "quality": 82.58934
+    },
+    {
+      "value": "minecraft:leather_leggings",
+      "weight": 4499,
+      "quality": 42.0873
+    },
+    {
+      "value": "minecraft:netherite_leggings",
+      "weight": 485,
+      "quality": 86.59801
+    }
+  ],
+  "CHEST": [
+    {
+      "value": "create:cardboard_chestplate",
+      "weight": 54768,
+      "quality": 25.499758
+    },
+    {
+      "value": "create_sa:brass_chestplate",
+      "weight": 1788,
+      "quality": 343.69754
+    },
+    {
+      "value": "create_sa:copper_chestplate",
+      "weight": 2628,
+      "quality": 335.81223
+    },
+    {
+      "value": "create_sa:zinc_chestplate",
+      "weight": 2618,
+      "quality": 335.90393
+    },
+    {
+      "value": "endermanoverhaul:badlands_hood",
+      "weight": 4038,
+      "quality": 322.7829
+    },
+    {
+      "value": "endermanoverhaul:savanna_hood",
+      "weight": 4038,
+      "quality": 322.7829
+    },
+    {
+      "value": "endermanoverhaul:snowy_hood",
+      "weight": 4038,
+      "quality": 322.7829
+    },
+    {
+      "value": "minecraft:chainmail_chestplate",
+      "weight": 3355,
+      "quality": 329.0611
+    },
+    {
+      "value": "minecraft:diamond_chestplate",
+      "weight": 1047,
+      "quality": 350.7313
+    },
+    {
+      "value": "minecraft:golden_chestplate",
+      "weight": 3348,
+      "quality": 329.1277
+    },
+    {
+      "value": "minecraft:iron_chestplate",
+      "weight": 2190,
+      "quality": 339.91223
+    },
+    {
+      "value": "minecraft:leather_chestplate",
+      "weight": 9912,
+      "quality": 271.2837
+    },
+    {
+      "value": "minecraft:netherite_chestplate",
+      "weight": 1033,
+      "quality": 350.86398
+    }
+  ],
+  "HEAD": [
+    {
+      "value": "create:cardboard_helmet",
+      "weight": 5172,
+      "quality": 131.44258
+    },
+    {
+      "value": "create:copper_diving_helmet",
+      "weight": 2187,
+      "quality": 155.51088
+    },
+    {
+      "value": "create:goggles",
+      "weight": 37720,
+      "quality": 0.25
+    },
+    {
+      "value": "create_sa:brass_helmet",
+      "weight": 1933,
+      "quality": 157.6548
+    },
+    {
+      "value": "create_sa:copper_helmet",
+      "weight": 2032,
+      "quality": 156.81778
+    },
+    {
+      "value": "create_sa:slime_helmet",
+      "weight": 2194,
+      "quality": 155.45874
+    },
+    {
+      "value": "create_sa:zinc_helmet",
+      "weight": 1979,
+      "quality": 157.26788
+    },
+    {
+      "value": "minecraft:chainmail_helmet",
+      "weight": 1658,
+      "quality": 159.99472
+    },
+    {
+      "value": "minecraft:diamond_helmet",
+      "weight": 765,
+      "quality": 167.69177
+    },
+    {
+      "value": "minecraft:golden_helmet",
+      "weight": 1620,
+      "quality": 160.31308
+    },
+    {
+      "value": "minecraft:iron_helmet",
+      "weight": 1693,
+      "quality": 159.69334
+    },
+    {
+      "value": "minecraft:leather_helmet",
+      "weight": 3464,
+      "quality": 144.97276
+    },
+    {
+      "value": "minecraft:netherite_helmet",
+      "weight": 691,
+      "quality": 168.3422
+    },
+    {
+      "value": "minecraft:turtle_helmet",
+      "weight": 1611,
+      "quality": 160.39229
+    }
+  ]
+}
