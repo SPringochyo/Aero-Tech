@@ -48,8 +48,8 @@ mouseSensitivity:0.34507042253521125
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","file/SodiumTranslations.zip","file/Create-Aeronautics-RU.zip","file/Unique Dark - Lite - 1.20.2-26.x.zip"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric","mod_resources","file/SodiumTranslations.zip","file/Create-Aeronautics-RU.zip","file/Unique Dark - Lite - 1.20.2-26.x.zip","file/Xaero\u0027s World Map Translator.zip"]
+incompatibleResourcePacks:["file/Xaero\u0027s World Map Translator.zip"]
 lastServer:
 lang:ru_ru
 chatVisibility:0
@@ -75,7 +75,7 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
 joinedFirstServer:false
 hideBundleTutorial:false
@@ -140,11 +140,11 @@ key_key.veil.editor:key.keyboard.unknown
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.e:SHIFT
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
 key_simulated.keyinfo.rotate_mode:key.keyboard.tab
 key_key.curios.open.desc:key.keyboard.unknown
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
@@ -215,6 +215,9 @@ key_gui.xaero_alternative_list_players:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players_on_map:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players_in_world:key.keyboard.unknown
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
+key_key.create_sa.flying:key.keyboard.space
+key_key.create_sa.increase_reach:key.keyboard.up
+key_key.create_sa.decrease_reach:key.keyboard.down
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:0.20422535211267606
