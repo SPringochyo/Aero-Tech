@@ -1,0 +1,17 @@
+filename = 'create-confectionery1.21.1_v1.1.2.jar'
+name = 'Create Confectionery'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1', '1.21.2', '1.21.2', '1.21.3', '1.21.3', '1.21.4', '1.21.4', '1.21.5', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.2'
+
+[download]
+hash = '2ea7f9e0114c5a22f0c1795b1a6fdd841e4b1d7faaaf5795f923b3fcf7d2de0c0841fdfa37ade711a68e1cd7cedb1576d29113bf14b012929e3aca6f336bfec9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WPE5gRs9/versions/m9KI739R/create-confectionery1.21.1_v1.1.2.jar'
+
+[update.modrinth]
+mod-id = 'WPE5gRs9'
+version = 'm9KI739R'

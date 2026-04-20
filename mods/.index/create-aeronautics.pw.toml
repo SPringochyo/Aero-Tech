@@ -1,17 +1,17 @@
-filename = 'create-aeronautics-bundled-1.21.1-1.0.2.jar'
+filename = 'create-aeronautics-bundled-1.21.1-1.0.3.jar'
 name = 'Create Aeronautics'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.2+mc1.21.1'
+x-prismlauncher-version-number = '1.0.3+mc1.21.1'
 
 [download]
-hash = 'd39a676c505b9f078bbfd55edf4b280edd4a8f1060e36c8a988e110933e685d08305994b9692688558b85ac6037acbd10b40f5457259a813446b89ed97a597f7'
+hash = '3d7ef0e79b366567f2d5718806df16c8cb960b3ec0450c313b596b7262871d5b3f4f0635c8bce914b74908b5682c34235ada92792b1e288715aec7525193fb04'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/oWaK0Q19/versions/HY8u0JqC/create-aeronautics-bundled-1.21.1-1.0.2.jar'
+url = 'https://cdn.modrinth.com/data/oWaK0Q19/versions/FIeWE7UC/create-aeronautics-bundled-1.21.1-1.0.3.jar'
 
 [update.modrinth]
 mod-id = 'oWaK0Q19'
-version = 'HY8u0JqC'
+version = 'FIeWE7UC'

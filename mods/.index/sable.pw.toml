@@ -1,17 +1,17 @@
-filename = 'sable-neoforge-1.21.1-1.0.5.jar'
+filename = 'sable-neoforge-1.21.1-1.0.6.jar'
 name = 'Sable'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.5+mc1.21.1'
+x-prismlauncher-version-number = '1.0.6+mc1.21.1'
 
 [download]
-hash = '4f0cb68212443e679724071eaad06a013b87e14f6ed9d8668516872b12cf4d9d5dd92c4cc664aa6c9d3f2f579add2cfb07e4cbd6e31397bcaafeaea28b2cbd5e'
+hash = '5b732e8b808b9e97ddc61375e849a86298b9ba5b1c81c576faf9b96667cd27e83fcc2e881af69fded28d1038b8c0f4ddb13ad6b3c1a34a2f1d688061ee6c5d19'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/T9PomCSv/versions/2e8wmM3Q/sable-neoforge-1.21.1-1.0.5.jar'
+url = 'https://cdn.modrinth.com/data/T9PomCSv/versions/ZYLSN31S/sable-neoforge-1.21.1-1.0.6.jar'
 
 [update.modrinth]
 mod-id = 'T9PomCSv'
-version = '2e8wmM3Q'
+version = 'ZYLSN31S'
