@@ -9,7 +9,10 @@
 !resourcepacks/
 !resourcepacks/**
 
+!shaderpacks/
+!shaderpacks/**
+
 !.gitignore
-!icon.jpg
+!icon.png
 !options.txt
 !README.md

@@ -12,6 +12,7 @@
 # Моды
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) [3\.0\.9\+mc1\.21]
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) [13\.0\.8]
+- [Better Clouds](https://modrinth.com/mod/5srFLIaK) [1\.7\.19\+1\.21\.1\-neoforge]
 - [Better ModList](https://modrinth.com/mod/sbpqhzIG) [1\.1\.22]
 - [BetterF3](https://modrinth.com/mod/8shC1gFX) [11\.0\.3]
 - [BetterGrassify](https://modrinth.com/mod/m5T5xmUy) [1\.7\.0\+neoforge\.1\.21\.1]
@@ -20,7 +21,7 @@
 - [Cloth Config v15 API](https://modrinth.com/mod/9s6osm5g) [15\.0\.140]
 - [Create](https://modrinth.com/mod/LNytGWDc) [6\.0\.9]
 - [Create Aeronautics](https://modrinth.com/mod/oWaK0Q19) [1\.0\.3]
-- [Create Big Cannons](https://cdn.discordapp.com/attachments/996634475578531960/1495423736130703390/createbigcannons-5.11.3-dev-mc.1.21.1-build.276.jar?ex=69e63162&is=69e4dfe2&hm=9d5a9af4b6e4dcbbd9118eec8d5f7a21352a5817e8f9a0df2a50e7ea94325eaf&) [5\.11\.3]  (Временная версия мода)
+- [Create Big Cannons](https://cdn.discordapp.com/attachments/996634475578531960/1495740591701622966/createbigcannons-5.11.3-dev-mc.1.21.1-build.277.jar?ex=69e7587a&is=69e606fa&hm=d95ad3bdcace342576ec39c1def725f6c794ae9545c445846bed89e3ac87e417&) [5\.11\.3]  (Временная версия мода)
 - [Create Confectionery](https://modrinth.com/mod/WPE5gRs9) [1\.1\.0]
 - [Create Diesel Generators](https://modrinth.com/mod/ZM3tt6p1) [1\.21\.1\-1\.3\.11]
 - [Create Dynamic Light](https://modrinth.com/mod/evMQRxqV) [2\.0\.1]
@@ -33,7 +34,6 @@
 - [Create: Mobile Packages](https://modrinth.com/mod/1vXRfEHZ) [0\.7\.2]
 - [Create: Rustic Structures](https://modrinth.com/mod/lmbZMkEZ) [1\.0\.0]
 - [Create: Sky Village](https://modrinth.com/mod/1sKEbgoN) [0\.0\.29I]
-- [Create: Structures Arise](https://modrinth.com/mod/9enMEvoc) [158\.31\.30]
 - [Create: Threaded Trains](https://modrinth.com/mod/RYJzdkDr) [1\.0\.0]
 - [Create: Totem Factory](https://modrinth.com/mod/ae2lDuIP) [1\.1\.1]
 - [Creeper Overhaul](https://modrinth.com/mod/MI1LWe93) [4\.0\.6]
@@ -44,6 +44,8 @@
 - [End Remastered Additions](https://www.curseforge.com/projects/1365790) [1\.1\.0]
 - [Enderman Overhaul](https://modrinth.com/mod/Lq6ojcWv) [2\.0\.3]
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) [1\.10\.1]
+- [Explorer's Compass](https://modrinth.com/mod/RV1qfVQ8) [1\.21\.1\-3\.4\.0\-neoforge]
+- [Exposure](https://modrinth.com/mod/hB899VmG) [1\.9\.16]
 - [ExtraSounds Next](https://modrinth.com/mod/jv7tzVE4) [1\.5\.2]
 - [Farmer's Delight](https://modrinth.com/mod/R2OftAxM) [1\.2\.11a]
 - [Ferrite Core](https://modrinth.com/mod/uXXizFIs) [7\.0\.3]
@@ -60,13 +62,16 @@
 - [Lithostitched](https://modrinth.com/mod/XaDC71GB) [1\.6\.8]
 - [ModernFix](https://modrinth.com/mod/nmDcB62a) [5\.27\.2\+mc1\.21\.1]
 - [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) [2\.26\.1]
+- [Nature's Compass](https://modrinth.com/mod/fPetb5Kh) [1\.21\.1\-3\.4\.0\-neoforge]
 - [No Void Structures](https://modrinth.com/mod/iWMeHtdv) [2\.0\.1]
+- [Ok Zoomer](https://modrinth.com/mod/aXf2OSFU) [10\.0\.0\-beta\.13]
 - [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) [1\.8\.3\+mc1\.21\.4]
 - [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) [3\.0\.12]
 - [Resourcefulconfig](https://modrinth.com/mod/M1953qlQ) [3\.0\.11]
 - [Revamped Floating Islands](https://modrinth.com/mod/Cui7stHA) [1\.1\.6]
 - [Ritchie's Projectile Library](https://modrinth.com/mod/B3pb093D) [2\.1\.2]
 - [Sable](https://modrinth.com/mod/T9PomCSv) [1\.0\.6]
+- [ShellBound for AirShip](https://modrinth.com/mod/S3eukuPZ) [1\.0\.0\-neoforge]
 - [Smooth Hover](https://modrinth.com/mod/yQPKBg26) [1\.0]
 - [Smooth Scrolling Reforged](https://www.curseforge.com/projects/1364975) [1\.0\.1]
 - [Smooth Swapping](https://modrinth.com/mod/ydZic5r4) [0\.9\.3\.2]
@@ -81,8 +86,10 @@
 - [Sophisticated Storage](https://modrinth.com/mod/hMlaZH8f) [1\.5\.37]
 - [TenshiLib](https://modrinth.com/mod/P2rffivS) [1\.21\.1\-2\.2\.5\-neoforge]
 - [Tyz's skills](https://modrinth.com/mod/4rKNK5O2) [6\.2\.0]
+- [Variants&Ventures](https://modrinth.com/mod/lNDRiXkY) [1\.0\.23]
 - [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) [25\.3\.10]
 - [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) [1\.40\.11]
+- [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) [3\.8\.2\+1\.21\.1\-neoforge]
 
 # Ресурспаки
 - [Create-Aeronautics-RU](https://github.com/mishtok125/Create-Aeronautics-RU)

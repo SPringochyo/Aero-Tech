@@ -1,5 +1,6 @@
 [
   {"version":1},
+  {"ingredient":{"id":"minecraft:honeycomb"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create_confectionery:gingerbread_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create_confectionery:gingerbread_stairs"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create_confectionery:gingerbread_slab"},"type":"item_stack","bookmarkType":"INGREDIENT"},
