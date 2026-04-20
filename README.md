@@ -1,5 +1,6 @@
 ![Иконка](icon.png)
 
+Свежую версию смотрите в релизах \
 Больше в моем [тгк](https://t.me/SPringochyosDB)
 
 # Aero Tech
