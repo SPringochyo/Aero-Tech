@@ -1,4 +1,4 @@
-![Иконка](icon.jpg)
+![Иконка](icon.png)
 
 # Aero Tech
 Минималистичная :) сборка с Create Aeronautics на русском
