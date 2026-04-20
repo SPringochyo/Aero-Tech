@@ -1,0 +1,10 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"totemfactory:totem_body"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"totemfactory:totem_body_casing"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"totemfactory:totem_head_casing"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"totemfactory:totem_head"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"totemfactory:inactive_totem"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"totemfactory:tumbaga_alloy"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"totemfactory:tumbaga_block"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

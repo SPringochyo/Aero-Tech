@@ -1,0 +1,17 @@
+{
+  "powerWeight": 4,
+  "active": true,
+  "id": "deep_sight",
+  "maximumLevel": 1,
+  "prices": [
+    40
+  ],
+  "type": "TRAIT",
+  "category": "TRAITS",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/deep_sight.png",
+  "displayName": "skill.tyzs_skills.deep_sight.displayName",
+  "description": "skill.tyzs_skills.deep_sight.description",
+  "modifiers": [],
+  "customValues": {}
+}

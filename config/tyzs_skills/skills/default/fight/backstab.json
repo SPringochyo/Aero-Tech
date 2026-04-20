@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "id": "backstab",
+  "maximumLevel": 5,
+  "prices": [
+    2,
+    3,
+    4,
+    5,
+    7
+  ],
+  "type": "IMMUTABLE",
+  "category": "FIGHT",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/backstab.png",
+  "displayName": "skill.tyzs_skills.backstab.displayName",
+  "description": "skill.tyzs_skills.backstab.description",
+  "modifiers": [],
+  "customValues": {
+    "damage_buff": {
+      "values": [
+        5.0,
+        10.0,
+        15.0,
+        20.0,
+        25.0
+      ],
+      "unit": "skill.tyzs_skills.unit.percentage"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "id": "attack_damage",
+  "maximumLevel": 3,
+  "prices": [
+    5,
+    8,
+    12
+  ],
+  "type": "GENERIC",
+  "category": "ABILITIES",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/attack_damage.png",
+  "displayName": "skill.tyzs_skills.attack_damage.displayName",
+  "description": "skill.tyzs_skills.attack_damage.description",
+  "modifiers": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "operation": "ADD_VALUE",
+      "values": [
+        1.0,
+        2.0,
+        3.0
+      ],
+      "unit": "skill.tyzs_skills.unit.damage"
+    }
+  ],
+  "customValues": {}
+}

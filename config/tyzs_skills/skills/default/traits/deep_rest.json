@@ -1,0 +1,17 @@
+{
+  "powerWeight": 4,
+  "active": true,
+  "id": "deep_rest",
+  "maximumLevel": 1,
+  "prices": [
+    30
+  ],
+  "type": "TRAIT",
+  "category": "TRAITS",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/deep_rest.png",
+  "displayName": "skill.tyzs_skills.deep_rest.displayName",
+  "description": "skill.tyzs_skills.deep_rest.description",
+  "modifiers": [],
+  "customValues": {}
+}

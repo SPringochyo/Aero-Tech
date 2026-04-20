@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "id": "swim_speed",
+  "maximumLevel": 5,
+  "prices": [
+    2,
+    3,
+    4,
+    5,
+    7
+  ],
+  "type": "GENERIC",
+  "category": "ABILITIES",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/swim_speed.png",
+  "displayName": "skill.tyzs_skills.swim_speed.displayName",
+  "description": "skill.tyzs_skills.swim_speed.description",
+  "modifiers": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "operation": "ADD_MULTIPLIED_BASE",
+      "values": [
+        15.0,
+        30.0,
+        45.0,
+        60.0,
+        75.0
+      ],
+      "unit": "skill.tyzs_skills.unit.percentage"
+    }
+  ],
+  "customValues": {}
+}

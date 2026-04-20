@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "id": "excavation",
+  "maximumLevel": 10,
+  "prices": [
+    2,
+    2,
+    3,
+    3,
+    4,
+    4,
+    5,
+    5,
+    6,
+    6
+  ],
+  "type": "GENERIC",
+  "category": "MISC",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/excavation.png",
+  "displayName": "skill.tyzs_skills.excavation.displayName",
+  "description": "skill.tyzs_skills.excavation.description",
+  "modifiers": [
+    {
+      "attribute": "minecraft:player.block_break_speed",
+      "operation": "ADD_MULTIPLIED_BASE",
+      "values": [
+        20.0,
+        40.0,
+        60.0,
+        80.0,
+        100.0,
+        120.0,
+        140.0,
+        160.0,
+        180.0,
+        200.0
+      ],
+      "unit": "skill.tyzs_skills.unit.percentage"
+    }
+  ],
+  "customValues": {}
+}

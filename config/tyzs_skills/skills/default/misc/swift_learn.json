@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "id": "swift_learn",
+  "maximumLevel": 4,
+  "prices": [
+    8,
+    12,
+    18,
+    24
+  ],
+  "type": "GENERIC",
+  "category": "MISC",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/swift_learn.png",
+  "displayName": "skill.tyzs_skills.swift_learn.displayName",
+  "description": "skill.tyzs_skills.swift_learn.description",
+  "modifiers": [
+    {
+      "attribute": "tyzs_skills:skill_xp_multiplier",
+      "operation": "ADD_MULTIPLIED_BASE",
+      "values": [
+        15.0,
+        30.0,
+        45.0,
+        60.0
+      ],
+      "unit": "skill.tyzs_skills.unit.percentage"
+    }
+  ],
+  "customValues": {}
+}

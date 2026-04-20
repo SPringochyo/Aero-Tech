@@ -1,0 +1,17 @@
+{
+  "powerWeight": 5,
+  "active": false,
+  "id": "soundless",
+  "maximumLevel": 1,
+  "prices": [
+    45
+  ],
+  "type": "TRAIT",
+  "category": "TRAITS",
+  "purchasable": false,
+  "icon": "tyzs_skills:textures/gui/skills/soundless.png",
+  "displayName": "skill.tyzs_skills.soundless.displayName",
+  "description": "skill.tyzs_skills.soundless.description",
+  "modifiers": [],
+  "customValues": {}
+}

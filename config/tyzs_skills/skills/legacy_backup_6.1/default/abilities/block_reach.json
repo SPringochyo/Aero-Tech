@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "id": "block_reach",
+  "maximumLevel": 4,
+  "prices": [
+    4,
+    6,
+    8,
+    12
+  ],
+  "type": "GENERIC",
+  "category": "ABILITIES",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/block_reach.png",
+  "displayName": "skill.tyzs_skills.block_reach.displayName",
+  "description": "skill.tyzs_skills.block_reach.description",
+  "modifiers": [
+    {
+      "attribute": "minecraft:player.block_interaction_range",
+      "operation": "ADD_VALUE",
+      "values": [
+        1.0,
+        2.0,
+        3.0,
+        4.0
+      ],
+      "unit": "skill.tyzs_skills.unit.blocks"
+    }
+  ],
+  "customValues": {}
+}

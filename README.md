@@ -1,7 +1,13 @@
 ![Иконка](icon.jpg)
 
 # Aero Tech
-Минималистичная сборка с Create Aeronautics на русском
+Минималистичная :) сборка с Create Aeronautics на русском
+
+Игроков ожидает выживание на летающий островах с прогрессией и множеством средств передвижения.
+Пройти сборку не так то просто, для того что бы активировать портал в Край, нужно найти 12 разных очей, разбросанных по всему миру.
+С этим не стоит медлить! С каждым днём окружающие игроков мобы становятся только сильнее и враждебнее.
+
+Для сборки стараюсь делать переводы модов, не локализованных на русский язык.
 
 # Моды
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) [3\.0\.9\+mc1\.21]
@@ -18,15 +24,18 @@
 - [Create Confectionery](https://modrinth.com/mod/WPE5gRs9) [1\.1\.0]
 - [Create Diesel Generators](https://modrinth.com/mod/ZM3tt6p1) [1\.21\.1\-1\.3\.11]
 - [Create Dynamic Light](https://modrinth.com/mod/evMQRxqV) [2\.0\.1]
+- [Create Hypertube](https://modrinth.com/mod/ATDdrG1y) [0\.4\.0\-COMPAT]
 - [Create JEI Compat](https://modrinth.com/mod/1fkSpqmV) [1\.0\.2]
 - [Create Stuff & Additions](https://modrinth.com/mod/aq9qUUQG) [2\.0\.9]
 - [Create: Copycats\+](https://modrinth.com/mod/UT2M39wf) [3\.0\.4\+mc\.1\.21\.1\-neoforge]
 - [Create: Factory](https://modrinth.com/mod/j6Zt3N7W) [0\.5a\-1\.21\.1]
 - [Create: Interiors](https://modrinth.com/mod/r4Knci2k) [0\.6\.1]
+- [Create: Mobile Packages](https://modrinth.com/mod/1vXRfEHZ) [0\.7\.2]
 - [Create: Rustic Structures](https://modrinth.com/mod/lmbZMkEZ) [1\.0\.0]
 - [Create: Sky Village](https://modrinth.com/mod/1sKEbgoN) [0\.0\.29I]
 - [Create: Structures Arise](https://modrinth.com/mod/9enMEvoc) [158\.31\.30]
 - [Create: Threaded Trains](https://modrinth.com/mod/RYJzdkDr) [1\.0\.0]
+- [Create: Totem Factory](https://modrinth.com/mod/ae2lDuIP) [1\.1\.1]
 - [Creeper Overhaul](https://modrinth.com/mod/MI1LWe93) [4\.0\.6]
 - [Curios API](https://modrinth.com/mod/vvuO3ImH) [9\.5\.1\+1\.21\.1]
 - [Dynamic Crosshair](https://modrinth.com/mod/ZcR9weSm) [9\.11]
@@ -71,13 +80,16 @@
 - [Sophisticated Core](https://modrinth.com/mod/nmoqTijg) [1\.4\.24]
 - [Sophisticated Storage](https://modrinth.com/mod/hMlaZH8f) [1\.5\.37]
 - [TenshiLib](https://modrinth.com/mod/P2rffivS) [1\.21\.1\-2\.2\.5\-neoforge]
+- [Tyz's skills](https://modrinth.com/mod/4rKNK5O2) [6\.2\.0]
 - [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) [25\.3\.10]
 - [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) [1\.40\.11]
 
 # Ресурспаки
 - [Create-Aeronautics-RU](https://github.com/mishtok125/Create-Aeronautics-RU)
 - [Create-Factory-RU-1.21.1](https://github.com/SPringochyo/Rus/tree/main/Create%20Factory%20RU)
+- [Create-Confectionery-RU-1.21.1](https://github.com/SPringochyo/Rus/tree/main/Create%20Confectionery%20RU)
 - [Unique Dark](https://modrinth.com/mod/BaY1UdGV)
 - [Translations for Sodium](https://modrinth.com/mod/yfDziwn1)
 - [Xaero's World Map Translator](metamods.net/resourcepacks/xaeros-world-map-translator/download#resource-252761-download)
 - [Fancy Beds](https://modrinth.com/mod/hFoOkEdk)
+- [Tyz's Skills - Dark theme](https://modrinth.com/mod/Uu3cuEfV)

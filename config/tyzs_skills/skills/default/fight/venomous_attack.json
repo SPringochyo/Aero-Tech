@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "id": "venomous_attack",
+  "maximumLevel": 5,
+  "prices": [
+    2,
+    3,
+    4,
+    5,
+    7
+  ],
+  "type": "IMMUTABLE",
+  "category": "FIGHT",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/venomous_attack.png",
+  "displayName": "skill.tyzs_skills.venomous_attack.displayName",
+  "description": "skill.tyzs_skills.venomous_attack.description",
+  "modifiers": [],
+  "customValues": {
+    "success_probability": {
+      "values": [
+        3.0,
+        8.0,
+        14.0,
+        25.0,
+        40.0
+      ],
+      "unit": "skill.tyzs_skills.unit.percentage"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "id": "magnet",
+  "maximumLevel": 4,
+  "prices": [
+    4,
+    6,
+    8,
+    12
+  ],
+  "type": "IMMUTABLE",
+  "category": "MISC",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/magnet.png",
+  "displayName": "skill.tyzs_skills.magnet.displayName",
+  "description": "skill.tyzs_skills.magnet.description",
+  "modifiers": [],
+  "customValues": {
+    "block_radius": {
+      "values": [
+        3.0,
+        5.0,
+        7.0,
+        10.0
+      ],
+      "unit": "skill.tyzs_skills.unit.block_radius"
+    }
+  }
+}

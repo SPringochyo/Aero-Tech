@@ -1,0 +1,17 @@
+{
+  "powerWeight": 6,
+  "active": true,
+  "id": "cinder_blood",
+  "maximumLevel": 1,
+  "prices": [
+    55
+  ],
+  "type": "TRAIT",
+  "category": "TRAITS",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/cinder_blood.png",
+  "displayName": "skill.tyzs_skills.cinder_blood.displayName",
+  "description": "skill.tyzs_skills.cinder_blood.description",
+  "modifiers": [],
+  "customValues": {}
+}

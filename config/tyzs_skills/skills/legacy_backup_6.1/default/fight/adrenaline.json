@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "id": "adrenaline",
+  "maximumLevel": 3,
+  "prices": [
+    2,
+    4,
+    6
+  ],
+  "type": "IMMUTABLE",
+  "category": "FIGHT",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/adrenaline.png",
+  "displayName": "skill.tyzs_skills.adrenaline.displayName",
+  "description": "skill.tyzs_skills.adrenaline.description",
+  "modifiers": [],
+  "customValues": {
+    "health_threshold": {
+      "values": [
+        10.0,
+        20.0,
+        30.0
+      ],
+      "unit": "skill.tyzs_skills.unit.percentage"
+    },
+    "effect_duration": {
+      "values": [
+        3.0,
+        5.0,
+        8.0
+      ],
+      "unit": "skill.tyzs_skills.unit.seconds"
+    }
+  }
+}

@@ -52,6 +52,9 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "create_mobile_packages": {
+    "bee_port": true
+  },
   "treechop": {
     "plugin": true,
     "show_tree_block_counts": true,

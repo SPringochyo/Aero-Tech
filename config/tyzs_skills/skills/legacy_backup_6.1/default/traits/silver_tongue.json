@@ -1,0 +1,17 @@
+{
+  "powerWeight": 2,
+  "active": true,
+  "id": "silver_tongue",
+  "maximumLevel": 1,
+  "prices": [
+    15
+  ],
+  "type": "TRAIT",
+  "category": "TRAITS",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/silver_tongue.png",
+  "displayName": "skill.tyzs_skills.silver_tongue.displayName",
+  "description": "skill.tyzs_skills.silver_tongue.description",
+  "modifiers": [],
+  "customValues": {}
+}

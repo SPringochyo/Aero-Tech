@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "id": "stealth",
+  "maximumLevel": 5,
+  "prices": [
+    4,
+    6,
+    8,
+    12,
+    16
+  ],
+  "type": "IMMUTABLE",
+  "category": "MISC",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/stealth.png",
+  "displayName": "skill.tyzs_skills.stealth.displayName",
+  "description": "skill.tyzs_skills.stealth.description",
+  "modifiers": [],
+  "customValues": {
+    "range_reduction": {
+      "values": [
+        10.0,
+        20.0,
+        30.0,
+        40.0,
+        50.0
+      ],
+      "unit": "skill.tyzs_skills.unit.percentage"
+    }
+  }
+}

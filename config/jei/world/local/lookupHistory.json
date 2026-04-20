@@ -1,5 +1,10 @@
 [
   {"version":1},
+  {"ingredient":{"id":"create_confectionery:gingerbread_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_confectionery:gingerbread_stairs"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_confectionery:gingerbread_slab"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_confectionery:ruby_chocolate"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_factory:ruby_chocolate_apple"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create:experience_nugget"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create_sa:heap_of_experience"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create_sa:copper_chestplate"},"type":"item_stack","bookmarkType":"INGREDIENT"},

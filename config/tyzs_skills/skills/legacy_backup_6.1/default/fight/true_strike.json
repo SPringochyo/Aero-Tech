@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "id": "true_strike",
+  "maximumLevel": 3,
+  "prices": [
+    10,
+    15,
+    20
+  ],
+  "type": "IMMUTABLE",
+  "category": "FIGHT",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/true_strike.png",
+  "displayName": "skill.tyzs_skills.true_strike.displayName",
+  "description": "skill.tyzs_skills.true_strike.description",
+  "modifiers": [],
+  "customValues": {
+    "success_probability": {
+      "values": [
+        3.0,
+        6.0,
+        9.0
+      ],
+      "unit": "skill.tyzs_skills.unit.percentage"
+    }
+  }
+}

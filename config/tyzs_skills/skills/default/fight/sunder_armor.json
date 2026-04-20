@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "id": "sunder_armor",
+  "maximumLevel": 5,
+  "prices": [
+    4,
+    6,
+    8,
+    12,
+    16
+  ],
+  "type": "IMMUTABLE",
+  "category": "FIGHT",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/sunder_armor.png",
+  "displayName": "skill.tyzs_skills.sunder_armor.displayName",
+  "description": "skill.tyzs_skills.sunder_armor.description",
+  "modifiers": [],
+  "customValues": {
+    "damage_percentage": {
+      "values": [
+        20.0,
+        40.0,
+        60.0,
+        80.0,
+        100.0
+      ],
+      "unit": "skill.tyzs_skills.unit.percentage_damage"
+    },
+    "success_probability": {
+      "values": [
+        3.0,
+        6.0,
+        9.0,
+        12.0,
+        15.0
+      ],
+      "unit": "skill.tyzs_skills.unit.percentage"
+    }
+  }
+}

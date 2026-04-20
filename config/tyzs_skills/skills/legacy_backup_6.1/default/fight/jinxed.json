@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "id": "jinxed",
+  "maximumLevel": 3,
+  "prices": [
+    5,
+    8,
+    12
+  ],
+  "type": "IMMUTABLE",
+  "category": "FIGHT",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/jinxed.png",
+  "displayName": "skill.tyzs_skills.jinxed.displayName",
+  "description": "skill.tyzs_skills.jinxed.description",
+  "modifiers": [],
+  "customValues": {
+    "success_probability": {
+      "values": [
+        3.0,
+        5.0,
+        7.0
+      ],
+      "unit": "skill.tyzs_skills.unit.percentage"
+    }
+  }
+}

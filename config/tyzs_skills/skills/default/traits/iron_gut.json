@@ -1,0 +1,17 @@
+{
+  "powerWeight": 1,
+  "active": true,
+  "id": "iron_gut",
+  "maximumLevel": 1,
+  "prices": [
+    10
+  ],
+  "type": "TRAIT",
+  "category": "TRAITS",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/iron_gut.png",
+  "displayName": "skill.tyzs_skills.iron_gut.displayName",
+  "description": "skill.tyzs_skills.iron_gut.description",
+  "modifiers": [],
+  "customValues": {}
+}

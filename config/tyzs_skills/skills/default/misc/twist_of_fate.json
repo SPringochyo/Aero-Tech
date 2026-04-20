@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "id": "twist_of_fate",
+  "maximumLevel": 5,
+  "prices": [
+    4,
+    6,
+    8,
+    12,
+    16
+  ],
+  "type": "IMMUTABLE",
+  "category": "MISC",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/twist_of_fate.png",
+  "displayName": "skill.tyzs_skills.twist_of_fate.displayName",
+  "description": "skill.tyzs_skills.twist_of_fate.description",
+  "modifiers": [],
+  "customValues": {
+    "loot_multiplier": {
+      "values": [
+        10.0,
+        20.0,
+        30.0,
+        40.0,
+        50.0
+      ],
+      "unit": "skill.tyzs_skills.unit.percentage"
+    }
+  }
+}

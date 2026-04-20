@@ -1,0 +1,17 @@
+{
+  "powerWeight": 3,
+  "active": true,
+  "id": "gilded_aura",
+  "maximumLevel": 1,
+  "prices": [
+    20
+  ],
+  "type": "TRAIT",
+  "category": "TRAITS",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/gilded_aura.png",
+  "displayName": "skill.tyzs_skills.gilded_aura.displayName",
+  "description": "skill.tyzs_skills.gilded_aura.description",
+  "modifiers": [],
+  "customValues": {}
+}

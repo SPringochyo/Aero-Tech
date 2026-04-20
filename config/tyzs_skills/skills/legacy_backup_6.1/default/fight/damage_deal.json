@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "id": "damage_deal",
+  "maximumLevel": 5,
+  "prices": [
+    2,
+    3,
+    4,
+    5,
+    7
+  ],
+  "type": "IMMUTABLE",
+  "category": "FIGHT",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/damage_deal.png",
+  "displayName": "skill.tyzs_skills.damage_deal.displayName",
+  "description": "skill.tyzs_skills.damage_deal.description",
+  "modifiers": [],
+  "customValues": {
+    "success_probability": {
+      "values": [
+        3.0,
+        7.0,
+        11.0,
+        15.0,
+        20.0
+      ],
+      "unit": "skill.tyzs_skills.unit.percentage"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "powerWeight": 7,
+  "active": true,
+  "id": "keepsake",
+  "maximumLevel": 1,
+  "prices": [
+    65
+  ],
+  "type": "TRAIT",
+  "category": "TRAITS",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/keepsake.png",
+  "displayName": "skill.tyzs_skills.keepsake.displayName",
+  "description": "skill.tyzs_skills.keepsake.description",
+  "modifiers": [],
+  "customValues": {}
+}

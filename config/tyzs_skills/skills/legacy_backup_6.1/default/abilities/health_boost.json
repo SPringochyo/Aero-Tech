@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "id": "health_boost",
+  "maximumLevel": 10,
+  "prices": [
+    2,
+    3,
+    4,
+    5,
+    7,
+    9,
+    11,
+    14,
+    17,
+    20
+  ],
+  "type": "GENERIC",
+  "category": "ABILITIES",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/health_boost.png",
+  "displayName": "skill.tyzs_skills.health_boost.displayName",
+  "description": "skill.tyzs_skills.health_boost.description",
+  "modifiers": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "operation": "ADD_VALUE",
+      "values": [
+        2.0,
+        4.0,
+        6.0,
+        8.0,
+        10.0,
+        12.0,
+        14.0,
+        16.0,
+        18.0,
+        20.0
+      ],
+      "unit": "skill.tyzs_skills.unit.half_hearts"
+    }
+  ],
+  "customValues": {}
+}

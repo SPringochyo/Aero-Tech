@@ -1,0 +1,17 @@
+{
+  "powerWeight": 6,
+  "active": true,
+  "id": "deep_lode",
+  "maximumLevel": 1,
+  "prices": [
+    55
+  ],
+  "type": "TRAIT",
+  "category": "TRAITS",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/deep_lode.png",
+  "displayName": "skill.tyzs_skills.deep_lode.displayName",
+  "description": "skill.tyzs_skills.deep_lode.description",
+  "modifiers": [],
+  "customValues": {}
+}

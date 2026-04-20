@@ -45,7 +45,7 @@
 	#Here the difficulty between 0-500 blocks to spawn will stay at 0. From then on the difficulty increases by 1 every 100 blocks further
 	#Note: the `difficulty` variable in distance based expression is always 0!
 	#Allowed Values: GLOBAL, PLAYERMAX, PLAYERMEAN, PLAYERSUM, DISTANCE, DISTANCESPAWN
-	"Difficulty type" = "PLAYERMEAN"
+	"Difficulty type" = "GLOBAL"
 	#Position used for DISTANCE difficulty type
 	"Center Position" = "0-0"
 	#Disable/Enable friendly fire for owned pets.
@@ -73,7 +73,7 @@
 	#<#minecraft:raiders|ATTRIBUTES> will make all raiders be excluded from attribute modifications
 	#<minecraft:sheep|ATTRIBUTES> will make sheeps be excluded from attribute modifications
 	#<minecraft> disables everything for all vanilla entities
-	"Entity Configs" = ["minecraft:allay", "minecraft:armadillo", "minecraft:axolotl", "minecraft:bat", "minecraft:bee", "minecraft:camel", "minecraft:cat", "minecraft:chicken", "minecraft:cod", "minecraft:cow", "minecraft:dolphin", "minecraft:donkey", "minecraft:fox", "minecraft:frog", "minecraft:glow_squid", "minecraft:goat", "minecraft:horse", "minecraft:iron_golem", "minecraft:llama", "minecraft:mooshroom", "minecraft:mule", "minecraft:ocelot", "minecraft:panda", "minecraft:parrot", "minecraft:pig", "minecraft:polar_bear", "minecraft:pufferfish", "minecraft:rabbit", "minecraft:salmon", "minecraft:sheep", "minecraft:skeleton_horse", "minecraft:sniffer", "minecraft:snow_golem", "minecraft:squid", "minecraft:strider", "minecraft:tadpole", "minecraft:trader_llama", "minecraft:tropical_fish", "minecraft:turtle", "minecraft:villager", "minecraft:wandering_trader", "minecraft:wolf", "minecraft:zombie_horse", "create_sa:brass_drone", "create_sa:drill_module", "create_sa:magnet_module", "create_sa:fan_module", "create_sa:vault_module", "create_sa:brass_cube_r"]
+	"Entity Configs" = ["minecraft:allay", "minecraft:armadillo", "minecraft:axolotl", "minecraft:bat", "minecraft:bee", "minecraft:camel", "minecraft:cat", "minecraft:chicken", "minecraft:cod", "minecraft:cow", "minecraft:dolphin", "minecraft:donkey", "minecraft:fox", "minecraft:frog", "minecraft:glow_squid", "minecraft:goat", "minecraft:horse", "minecraft:iron_golem", "minecraft:llama", "minecraft:mooshroom", "minecraft:mule", "minecraft:ocelot", "minecraft:panda", "minecraft:parrot", "minecraft:pig", "minecraft:polar_bear", "minecraft:pufferfish", "minecraft:rabbit", "minecraft:salmon", "minecraft:sheep", "minecraft:skeleton_horse", "minecraft:sniffer", "minecraft:snow_golem", "minecraft:squid", "minecraft:strider", "minecraft:tadpole", "minecraft:trader_llama", "minecraft:tropical_fish", "minecraft:turtle", "minecraft:villager", "minecraft:wandering_trader", "minecraft:wolf", "minecraft:zombie_horse", "create_confectionery:little_gingerbread_man", "create_sa:brass_drone", "create_sa:drill_module", "create_sa:magnet_module", "create_sa:fan_module", "create_sa:vault_module", "create_sa:brass_cube_r"]
 	#Any of the following
 	#[ATTRIBUTES, ARMOR, HELDITEMS, BLOCKBREAK, USEITEM, LADDER, STEAL, GUARDIAN, FLYING, TARGETVILLAGER, NEUTRALAGGRO]
 	#added here will turn that feature into a whitelist in regards to Entity Configs.
@@ -119,17 +119,17 @@
 [ai]
 	#Whitelist for blocks, which can be actively broken.
 	#Usage: id|namespace|#tag. Put "!" infront to exclude blocks. E.g. "minecraft", "minecraft:dirt" or "#minecraft:planks"
-	"Block Break Whitelist" = ["#c:glass_blocks", "#c:glass_panes", "#minecraft:fence_gates", "#c:fence_gates", "#minecraft:wooden_doors"]
+	"Block Break Whitelist" = ["#c:glass_blocks", "#c:glass_panes", "#minecraft:glass_blocks", "#minecraft:glass_panes", "#minecraft:fence_gates", "#c:fence_gates", "#minecraft:wooden_doors"]
 	#Treat Block Whitelist as Blacklist
 	"Breaklist as Blacklist" = false
 	#Use the block breaking sound instead of a knocking sound
 	Sound = true
 	#(Expression): Chance for a mob to be able to break blocks
-	"Breaker Chance" = "0.3"
+	"Breaker Chance" = "0.6"
 	#Difficulty at which mobs are able to break blocks
 	# Default: 0.0
 	# Range: 0.0 ~ 1.7976931348623157E308
-	"Difficulty Break AI" = 0.0
+	"Difficulty Break AI" = 0.5
 	#Initial cooldown for block breaking mobs
 	# Default: 120
 	# Range: > 0
@@ -139,7 +139,7 @@
 	# Range: > 0
 	"Breaker Cooldown" = 20
 	#By default mobs can only break the block they can harvest with the current tool they holding. Set this to true to disable that check (The block will not drop if they cant harvest it though!).
-	"Ignore Harvest Check" = false
+	"Ignore Harvest Check" = true
 	#Blocks will be restored after x ticks being broken. If set to 0 will never restore
 	#This will not restore block entity data!
 	# Default: 0
@@ -163,7 +163,7 @@
 	"Steal Block Blacklist" = []
 	#Items which will be given to mobs who can break blocks. Empty list = no items. Syntax: id;weight
 	#Note: Mobs can only break blocks if the tool they are holding can break the blocks
-	"Breaking items" = ["minecraft:diamond_pickaxe;1", "minecraft:iron_axe;2"]
+	"Breaking items" = ["minecraft:pickaxes;1", "minecraft:axes;2"]
 	#Should mobs be able to break block entities? Evaluated before the break list
 	"Break BlockEntities" = true
 	#(Expression): Chance for neutral mobs to be aggressive

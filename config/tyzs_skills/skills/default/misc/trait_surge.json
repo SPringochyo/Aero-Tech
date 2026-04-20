@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "id": "trait_surge",
+  "maximumLevel": 5,
+  "prices": [
+    10,
+    15,
+    20,
+    30,
+    45
+  ],
+  "type": "GENERIC",
+  "category": "MISC",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/trait_surge.png",
+  "displayName": "skill.tyzs_skills.trait_surge.displayName",
+  "description": "skill.tyzs_skills.trait_surge.description",
+  "modifiers": [
+    {
+      "attribute": "tyzs_skills:trait_power",
+      "operation": "ADD_VALUE",
+      "values": [
+        1.0,
+        2.0,
+        3.0,
+        4.0,
+        5.0
+      ],
+      "unit": "skill.tyzs_skills.unit.trait_power"
+    }
+  ],
+  "customValues": {}
+}

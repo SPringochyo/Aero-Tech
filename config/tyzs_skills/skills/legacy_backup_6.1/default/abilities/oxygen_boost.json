@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "id": "oxygen_boost",
+  "maximumLevel": 4,
+  "prices": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "type": "GENERIC",
+  "category": "ABILITIES",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/oxygen_boost.png",
+  "displayName": "skill.tyzs_skills.oxygen_boost.displayName",
+  "description": "skill.tyzs_skills.oxygen_boost.description",
+  "modifiers": [
+    {
+      "attribute": "minecraft:generic.oxygen_bonus",
+      "operation": "ADD_MULTIPLIED_BASE",
+      "values": [
+        25.0,
+        50.0,
+        75.0,
+        100.0
+      ],
+      "unit": "skill.tyzs_skills.unit.percentage"
+    }
+  ],
+  "customValues": {}
+}

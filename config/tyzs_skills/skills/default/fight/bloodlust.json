@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "id": "bloodlust",
+  "maximumLevel": 4,
+  "prices": [
+    5,
+    8,
+    12,
+    18
+  ],
+  "type": "IMMUTABLE",
+  "category": "FIGHT",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/bloodlust.png",
+  "displayName": "skill.tyzs_skills.bloodlust.displayName",
+  "description": "skill.tyzs_skills.bloodlust.description",
+  "modifiers": [],
+  "customValues": {
+    "health_percentage": {
+      "values": [
+        7.0,
+        15.0,
+        22.0,
+        30.0
+      ],
+      "unit": "skill.tyzs_skills.unit.percentage"
+    }
+  }
+}
