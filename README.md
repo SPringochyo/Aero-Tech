@@ -1,5 +1,7 @@
 ![Иконка](icon.png)
 
+Больше в моем [тгк](https://t.me/SPringochyosDB)
+
 # Aero Tech
 Минималистичная :) сборка с Create Aeronautics на русском
 
