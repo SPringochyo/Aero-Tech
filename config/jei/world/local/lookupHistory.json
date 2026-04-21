@@ -1,5 +1,7 @@
 [
   {"version":1},
+  {"ingredient":{"id":"aether:blue_cape"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aether:victory_medal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:honeycomb"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create_confectionery:gingerbread_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create_confectionery:gingerbread_stairs"},"type":"item_stack","bookmarkType":"INGREDIENT"},

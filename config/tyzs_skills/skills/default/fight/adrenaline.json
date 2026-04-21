@@ -15,14 +15,6 @@
   "description": "skill.tyzs_skills.adrenaline.description",
   "modifiers": [],
   "customValues": {
-    "effect_duration": {
-      "values": [
-        3.0,
-        5.0,
-        8.0
-      ],
-      "unit": "skill.tyzs_skills.unit.seconds"
-    },
     "health_threshold": {
       "values": [
         10.0,
@@ -30,6 +22,14 @@
         30.0
       ],
       "unit": "skill.tyzs_skills.unit.percentage"
+    },
+    "effect_duration": {
+      "values": [
+        3.0,
+        5.0,
+        8.0
+      ],
+      "unit": "skill.tyzs_skills.unit.seconds"
     }
   }
 }

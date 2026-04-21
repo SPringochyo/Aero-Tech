@@ -15,6 +15,8 @@
 Для сборки стараюсь делать переводы модов, не локализованных на русский язык.
 
 # Моды
+- [Accessories](https://modrinth.com/mod/jtmvUHXj) [1\.1\.0\-beta\.53\+1\.21\.1]
+- [Accessories Compatibility Layer](https://modrinth.com/mod/ySnjMzLg) [0\.1\.12]
 - [Aether Villages](https://modrinth.com/mod/3P2XnNW6) [1\.0\.8]
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) [3\.0\.9\+mc1\.21]
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) [13\.0\.8]
@@ -109,6 +111,7 @@
 - [Create-Aeronautics-RU](https://github.com/mishtok125/Create-Aeronautics-RU)
 - [Create-Factory-RU-1.21.1](https://github.com/SPringochyo/Rus/tree/main/Create%20Factory%20RU)
 - [Create-Confectionery-RU-1.21.1](https://github.com/SPringochyo/Rus/tree/main/Create%20Confectionery%20RU)
+- [Aether: Regenerated](https://modrinth.com/mod/uudmIrRl)
 - [Unique Dark](https://modrinth.com/mod/BaY1UdGV)
 - [Translations for Sodium](https://modrinth.com/mod/yfDziwn1)
 - [Xaero's World Map Translator](metamods.net/resourcepacks/xaeros-world-map-translator/download#resource-252761-download)

@@ -3,6 +3,9 @@
 !config/
 !config/**
 
+!data/
+!data/**
+
 !mods/
 !mods/**
 
