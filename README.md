@@ -15,6 +15,7 @@
 Для сборки стараюсь делать переводы модов, не локализованных на русский язык.
 
 # Моды
+- [Aether Villages](https://modrinth.com/mod/3P2XnNW6) [1\.0\.8]
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) [3\.0\.9\+mc1\.21]
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) [13\.0\.8]
 - [Better Clouds](https://modrinth.com/mod/5srFLIaK) [1\.7\.19\+1\.21\.1\-neoforge]
@@ -24,6 +25,7 @@
 - [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) [0\.15\.1]
 - [ChatAnimation](https://modrinth.com/mod/DnNYdJsx) [1\.1\.3]
 - [Cloth Config v15 API](https://modrinth.com/mod/9s6osm5g) [15\.0\.140]
+- [Collective](https://modrinth.com/mod/e0M1UDsY) [8\.20]
 - [Create](https://modrinth.com/mod/LNytGWDc) [6\.0\.9]
 - [Create Aeronautics](https://modrinth.com/mod/oWaK0Q19) [1\.0\.3]
 - [Create Big Cannons](https://cdn.discordapp.com/attachments/996634475578531960/1495740591701622966/createbigcannons-5.11.3-dev-mc.1.21.1-build.277.jar?ex=69e7587a&is=69e606fa&hm=d95ad3bdcace342576ec39c1def725f6c794ae9545c445846bed89e3ac87e417&) [5\.11\.3]  (Временная версия мода)
@@ -39,6 +41,7 @@
 - [Create: Mobile Packages](https://modrinth.com/mod/1vXRfEHZ) [0\.7\.2]
 - [Create: Rustic Structures](https://modrinth.com/mod/lmbZMkEZ) [1\.0\.0]
 - [Create: Sky Village](https://modrinth.com/mod/1sKEbgoN) [0\.0\.29I]
+- [Create: Steam 'n' Rails 1\.21\.1](https://modrinth.com/mod/L3Jv0QZI) [0\.2\.0\-beta\.2\+neoforge\-mc1\.21\.1]
 - [Create: Threaded Trains](https://modrinth.com/mod/RYJzdkDr) [1\.0\.0]
 - [Create: Totem Factory](https://modrinth.com/mod/ae2lDuIP) [1\.1\.1]
 - [Creeper Overhaul](https://modrinth.com/mod/MI1LWe93) [4\.0\.6]
@@ -57,19 +60,23 @@
 - [Forgified Fabric API](https://modrinth.com/mod/Aqlf1Shp) [0\.116\.7\+2\.2\.4\+1\.21\.1]
 - [GeckoLib 4](https://modrinth.com/mod/8BmcQJ2H) [4\.8\.4]
 - [HT's TreeChop](https://modrinth.com/mod/gHoB7SHO) [0\.19\.3]
+- [Hide Experimental Warning](https://modrinth.com/mod/Rm4OOdHd) [1\.2]
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) [1\.6\.10\+1\.21\.1]
 - [Improved Mobs Mod](https://modrinth.com/mod/23MovWyi) [1\.21\.1\-1\.15\.2\-neoforge]
 - [Iris](https://modrinth.com/mod/YL57xq9U) [1\.8\.12\-snapshot\+mc1\.21\.1\-local]
+- [Iris Flywheel Compat](https://modrinth.com/mod/ndHYMY2K) [2\.2\.0]
 - [Jade](https://modrinth.com/mod/nvQzSEkH) [15\.10\.5\+neoforge]
 - [Jade Addons](https://modrinth.com/mod/xuDOzCLy) [6\.1\.0\+neoforge]
 - [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) [19\.27\.0\.340]
 - [Lithium](https://modrinth.com/mod/gvQqBUqZ) [0\.15\.3\+mc1\.21\.1]
 - [Lithostitched](https://modrinth.com/mod/XaDC71GB) [1\.6\.8]
 - [ModernFix](https://modrinth.com/mod/nmDcB62a) [5\.27\.2\+mc1\.21\.1]
+- [MossyLib](https://modrinth.com/mod/ffLDUGbm) [1\.1\.0\+1\.21\.1\+neoforge]
 - [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) [2\.26\.1]
 - [Nature's Compass](https://modrinth.com/mod/fPetb5Kh) [1\.21\.1\-3\.4\.0\-neoforge]
 - [No Void Structures](https://modrinth.com/mod/iWMeHtdv) [2\.0\.1]
 - [Ok Zoomer](https://modrinth.com/mod/aXf2OSFU) [10\.0\.0\-beta\.13]
+- [ReForgedPlay Mod](https://www.curseforge.com/projects/1018692) [0\.3]
 - [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) [1\.8\.3\+mc1\.21\.4]
 - [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) [3\.0\.12]
 - [Resourcefulconfig](https://modrinth.com/mod/M1953qlQ) [3\.0\.11]
@@ -90,11 +97,13 @@
 - [Sophisticated Core](https://modrinth.com/mod/nmoqTijg) [1\.4\.24]
 - [Sophisticated Storage](https://modrinth.com/mod/hMlaZH8f) [1\.5\.37]
 - [TenshiLib](https://modrinth.com/mod/P2rffivS) [1\.21\.1\-2\.2\.5\-neoforge]
+- [The Aether](https://modrinth.com/mod/YhmgMVyu) [1\.5\.10]
 - [Tyz's skills](https://modrinth.com/mod/4rKNK5O2) [6\.2\.0]
 - [Variants&Ventures](https://modrinth.com/mod/lNDRiXkY) [1\.0\.23]
 - [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) [25\.3\.10]
 - [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) [1\.40\.11]
 - [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) [3\.8\.2\+1\.21\.1\-neoforge]
+- [oωo](https://modrinth.com/mod/ccKDOlHs) [0\.12\.15\.5\-beta\.1\+1\.21]
 
 # Ресурспаки
 - [Create-Aeronautics-RU](https://github.com/mishtok125/Create-Aeronautics-RU)
