@@ -1,5 +1,8 @@
 [
   {"version":1},
+  {"ingredient":{"id":"vista:hollow_cassette"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"vista:viewfinder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"vista:television"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create_factory:ruby_chocolate_apple"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create_factory:cake_paste"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create_factory:dark_chocolate_roll"},"type":"item_stack","bookmarkType":"INGREDIENT"},

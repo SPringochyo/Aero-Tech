@@ -1,0 +1,98 @@
+#Client Settings
+[overlays]
+	#Display HUD overlays while in Creative Mode
+	show_overlays_in_creative = false
+
+	[overlays.xp_overlay]
+		#Display xp gain overlay
+		show_xp_overlay = true
+		#X offset
+		# Default: 0
+		# Range: -10000 ~ 10000
+		xp_x_offset = 0
+		#Y offset
+		# Default: 0
+		# Range: -10000 ~ 10000
+		xp_y_offset = 0
+		#Duration (sec)
+		# Default: 3.0
+		# Range: 0.5 ~ 60.0
+		xp_duration = 3.0
+		#Background color (Hex)
+		xp_background_color = "#FF000000"
+		#Border color (Hex)
+		xp_border_color = "#FFFFFFFF"
+		#Text color (Hex)
+		xp_text_color = "#FFFFFFFF"
+
+	[overlays.level_up_overlay]
+		#Display Level up overlay
+		show_level_overlay = true
+		#X offset
+		# Default: 0
+		# Range: -10000 ~ 10000
+		level_x_offset = 0
+		#Y offset
+		# Default: 0
+		# Range: -10000 ~ 10000
+		level_y_offset = 0
+		#Duration (sec)
+		# Default: 4.0
+		# Range: 0.5 ~ 60.0
+		level_duration = 4.0
+		#Background color (Hex)
+		level_background_color = "#FF000000"
+		#Border color (Hex)
+		level_border_color = "#FFD6AD55"
+		#Text color (Hex)
+		level_text_color = "#FFFFFFFF"
+		#Secondary text color (Hex)
+		level_second_text_color = "#FFD6AD55"
+
+	[overlays.skill_overlay]
+		#Display skill activation icons
+		show_skill_overlay = true
+		#X offset
+		# Default: 0
+		# Range: -10000 ~ 10000
+		skill_x_offset = 0
+		#Y offset
+		# Default: 0
+		# Range: -10000 ~ 10000
+		skill_y_offset = 0
+		#Duration (sec)
+		# Default: 2.0
+		# Range: 0.5 ~ 60.0
+		skill_duration = 2.0
+		#Background color (Hex)
+		skill_background_color = "#FF000000"
+		#Border color (Hex)
+		skill_border_color = "#FFD6AD55"
+
+[inventory_button]
+	#Display skill button in the inventory
+	skill_btn = true
+	#X Position of the skill inventory button
+	# Default: 3
+	# Range: -10000 ~ 10000
+	inventory_btn_x = 3
+	#Y Position of the skill inventory button
+	# Default: 3
+	# Range: -10000 ~ 10000
+	inventory_btn_y = 3
+
+[debug]
+	#Enable debug messages in chat
+	show_debug_messages = false
+
+[accessibility]
+	#Reduces FOV changes caused by skills (0.0 = Normal Minecraft, 1.0 = No FOV change)
+	# Default: 0.95
+	# Range: 0.0 ~ 1.0
+	speed_fov_reduction = 0.95
+
+[search_bar]
+	#Keep search query when closing the menu
+	keep_search_query = true
+	#§c[Experimental] §rAllow query typos
+	query_tolerance = false

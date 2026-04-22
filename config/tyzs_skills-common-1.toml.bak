@@ -1,0 +1,101 @@
+#General Gameplay Settings
+[general]
+	#Enable or disable the skill refund system
+	refund_system = true
+	#Percentage of the initial skill point cost refunded
+	# Default: 30.0
+	# Range: 1.0 ~ 100.0
+	refund_percentage = 30.0
+	#Prevent manually placed block from providing xp
+	prevent_placed_block_xp = true
+
+[Limits]
+	#Maximum level a player can reach (-1 to disable limit)
+	# Default: -1
+	# Range: > -1
+	max_lvl = -1
+	#Maximum SP a player can hold (-1 to disable limit)
+	# Default: -1
+	# Range: > -1
+	max_sp = -1
+	#Maximum SP a player can earn (-1 to disable limit)
+	# Default: -1
+	# Range: > -1
+	max_sp_gain = -1
+	#Maximum XP a player can earn within a defined period of time (-1 to disable limit)
+	# Default: -1.0
+	# Range: -1.0 ~ 1.7976931348623157E308
+	xp_daily = -1.0
+	#Time that must elapse before the XP limit reset (in sec)
+	# Default: 1200
+	# Range: 1 ~ 9223372036854775807
+	cycle_duration = 1200
+	#Change de limit type (FIXED = literal limit of xp, PERCENTAGE = percentage of the xp goal for the current level)
+	#Allowed Values: FIXED, PERCENTAGE
+	limit_type = "FIXED"
+
+[Death_penalties]
+	#Apply death penalties
+	death_penalties = false
+	#Percentage of XP deducted
+	# Default: 0.0
+	# Range: 0.0 ~ 100.0
+	xp_loss = 0.0
+	#Percentage of SP deducted
+	# Default: 0.0
+	# Range: 0.0 ~ 100.0
+	sp_loss = 0.0
+	#Number of LVL deducted
+	# Default: 0
+	# Range: > 0
+	lvl_loss = 0
+	#Percentage of chance to lose one level on each skill
+	# Default: 0.0
+	# Range: 0.0 ~ 100.0
+	skill_loss = 0.0
+
+[xp_values]
+	#Enable XP gain while in Creative Mode
+	earn_xp_in_creative = false
+	#Enable XP gain from eating food (values defined in JSON)
+	eating_xp_earnings = true
+	#Enable XP gain from killing entities (values defined in JSON)
+	killing_xp_earnings = true
+	#Enable XP gain from breaking blocks (values defined in JSON)
+	mining_xp_earnings = true
+	#XP gained from sleeping
+	# Default: 25.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	sleeping_gain = 25.0
+	#XP gained from fishing
+	# Default: 7.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	fishing_gain = 7.0
+	#XP gained from crafting items
+	# Default: 0.2
+	# Range: 0.0 ~ 1.7976931348623157E308
+	crafting_gain = 0.2
+	#XP gained from breeding animals
+	# Default: 15.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	breeding_gain = 15.0
+	#XP gain for basic advancements (Tasks)
+	# Default: 25.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	task_gain = 25.0
+	#XP gain for rare advancements (Goals)
+	# Default: 100.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	goal_gain = 100.0
+	#XP gain for epic advancements (Challenges)
+	# Default: 250.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	challenge_gain = 250.0
+	#XP gain for discovering a new biome
+	# Default: 45.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	biome_gain = 45.0
+	#XP gain for entering a new dimension
+	# Default: 500.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	dimension_gain = 500.0

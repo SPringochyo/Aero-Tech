@@ -1,5 +1,6 @@
 [
   {"version":1},
+  {"ingredient":{"id":"vista:cassette","components":{"vista:cassette_tape":"vista:space_sniffer"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"totemfactory:totem_body"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"totemfactory:totem_body_casing"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"totemfactory:totem_head_casing"},"type":"item_stack","bookmarkType":"INGREDIENT"},
