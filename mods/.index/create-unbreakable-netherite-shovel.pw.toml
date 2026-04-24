@@ -1,0 +1,17 @@
+filename = 'Create Unbreakable Netherite Shovel 2 Neoforge-1.21.1.jar'
+name = 'Create: Unbreakable Netherite Shovel'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Create: Unbreakable Netherite Shovel 1.21.1 NeoForge'
+
+[download]
+hash = '57dea76c76edf94cd824fcee93a9f9d105bf8da0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7944445
+project-id = 1370292

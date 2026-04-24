@@ -1,17 +1,17 @@
-filename = 'create_mobile_packages-1.21.1-0.7.3.jar'
+filename = 'create_mobile_packages-1.21.1-0.7.4.jar'
 name = 'Create: Mobile Packages'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.1-0.7.3'
+x-prismlauncher-version-number = '1.21.1-0.7.4'
 
 [download]
-hash = 'f1092b3ab2009126b0b97e21c7d148b34274e17871eaff2cae3804a857857d9002b047bcb345d3638d03bdbb8e9cbcc6c4cc9982c03b08edd75da9e25581360f'
+hash = '8c7c2eea47455cbc27de25688926261ea58b9f61ae86d1d39cdfa834a22d4a5b474415d8d4b9766b5f69cb8cc8b1c8a00005a082f6df668bbecd1bd9621bb359'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/1vXRfEHZ/versions/p6cqlruu/create_mobile_packages-1.21.1-0.7.3.jar'
+url = 'https://cdn.modrinth.com/data/1vXRfEHZ/versions/vrSxdmxm/create_mobile_packages-1.21.1-0.7.4.jar'
 
 [update.modrinth]
 mod-id = '1vXRfEHZ'
-version = 'p6cqlruu'
+version = 'vrSxdmxm'

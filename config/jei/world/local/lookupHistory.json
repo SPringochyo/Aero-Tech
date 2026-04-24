@@ -1,5 +1,13 @@
 [
   {"version":1},
+  {"ingredient":{"id":"unbreakable_netherite_pickaxe:unbreakable_netherite_pickaxe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createbigcannons:nethersteel_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createbigcannons:molten_nethersteel"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createbigcannons:unbored_medium_nethersteel_cannon_layer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createbigcannons:medium_nethersteel_cannon_layer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createbigcannons:cannon_crafting_wand"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_new_age:copper_circuit"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aether:aether_portal_frame"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"aether:blue_cape"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"aether:victory_medal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:honeycomb"},"type":"item_stack","bookmarkType":"INGREDIENT"},

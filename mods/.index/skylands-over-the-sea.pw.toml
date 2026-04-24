@@ -1,0 +1,54 @@
+filename = 'skylands-over-the-sea-3.0.1.jar'
+name = 'Skylands over the Sea'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.20',
+    '1.20',
+    '1.20.1',
+    '1.20.1',
+    '1.20.2',
+    '1.20.2',
+    '1.20.3',
+    '1.20.3',
+    '1.20.4',
+    '1.20.4',
+    '1.20.5',
+    '1.20.5',
+    '1.20.6',
+    '1.20.6',
+    '1.21',
+    '1.21',
+    '1.21.1',
+    '1.21.1',
+    '1.21.10',
+    '1.21.10',
+    '1.21.2',
+    '1.21.2',
+    '1.21.3',
+    '1.21.3',
+    '1.21.4',
+    '1.21.4',
+    '1.21.5',
+    '1.21.5',
+    '1.21.6',
+    '1.21.6',
+    '1.21.7',
+    '1.21.7',
+    '1.21.8',
+    '1.21.8',
+    '1.21.9',
+    '1.21.9'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.0.1+mod'
+
+[download]
+hash = '03f85a274ae7ac1f75fa348d0b154b9b8ca339732a6eb0c47081c27cca24c08db5189df0f84c13d61919df1bc98718300b8b839a983d93f2581ddc77710f4829'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WAKcNdAc/versions/58QOK0wc/skylands-over-the-sea-3.0.1.jar'
+
+[update.modrinth]
+mod-id = 'WAKcNdAc'
+version = '58QOK0wc'
