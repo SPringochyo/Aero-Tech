@@ -120,7 +120,7 @@
 - [The Aether](https://modrinth.com/mod/YhmgMVyu) [1\.5\.10]
 - [Tyz's skills](https://modrinth.com/mod/4rKNK5O2) [6\.2\.0]
 - [Variants&Ventures](https://modrinth.com/mod/lNDRiXkY) [1\.0\.23]
-- Vista [1\.21\-3\.1\.1]
+- [Vista](https://modrinth.com/mod/vista_tv) [1\.21\-3\.1\.1]
 - [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) [25\.3\.10]
 - [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) [1\.40\.11]
 - [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) [3\.8\.2\+1\.21\.1\-neoforge]
