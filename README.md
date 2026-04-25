@@ -1,4 +1,4 @@
-![Иконка](icon.png)
+<img src="gallery/Aero Tech Preview.jpg">
 
 Свежую версию смотрите в релизах \
 Больше в моем [тгк](https://t.me/SPringochyosDB)
