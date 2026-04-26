@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"simulated:engine_assembly"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:red_portable_engine"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:white_portable_engine"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:physics_assembler"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

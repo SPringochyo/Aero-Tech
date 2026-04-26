@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "id": "spare_parts",
+  "maximumLevel": 5,
+  "prices": [
+    5,
+    8,
+    12,
+    18,
+    24
+  ],
+  "type": "IMMUTABLE",
+  "category": "MISC",
+  "purchasable": true,
+  "icon": "tyzs_skills:textures/gui/skills/spare_parts.png",
+  "displayName": "skill.tyzs_skills.spare_parts.displayName",
+  "description": "skill.tyzs_skills.spare_parts.description",
+  "modifiers": [],
+  "customValues": {
+    "refund_chance": {
+      "values": [
+        2.0,
+        4.0,
+        6.0,
+        8.0,
+        10.0
+      ],
+      "unit": "skill.tyzs_skills.unit.percentage"
+    }
+  }
+}

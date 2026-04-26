@@ -1,5 +1,7 @@
 [
   {"version":1},
+  {"ingredient":{"id":"vista:television"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"vista:viewfinder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"unbreakable_netherite_pickaxe:unbreakable_netherite_pickaxe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"createbigcannons:nethersteel_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"createbigcannons:molten_nethersteel"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},

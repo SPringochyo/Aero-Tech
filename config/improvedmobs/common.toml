@@ -6,7 +6,7 @@
 	#Time in ticks for which the difficulty shouldn't increase at the beginning. One full minecraft day is 24000 ticks
 	# Default: 0
 	# Range: > 0
-	"Difficulty Delay" = 0
+	"Difficulty Delay" = 72000
 	#Whether mobs from spawners should be ignored
 	"Ignore Spawner" = false
 	#Handles increase in difficulty regarding current difficulty.
@@ -27,7 +27,7 @@
 	#has the problem that once reaching difficulty 10 it will decrease by 0.1 once and then increase once again as it was below 10
 	#To fix this you can instead now define something like ["0;difficulty + 0.01","10-5;difficulty - 0.1"]
 	#This allows the decrease to span from 10 to 5
-	"Difficulty Increase" = ["0.0;difficulty + 0.1", "250.0;difficulty"]
+	"Difficulty Increase" = ["0.0;difficulty + 0.03", "270.0;difficulty"]
 	#Wether difficulty should only increase with at least one online player or not
 	"Ignore Players" = false
 	#If true will increase difficulty by the amount of time skipped. Else will only increase difficulty once.
