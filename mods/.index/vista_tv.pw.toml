@@ -1,0 +1,17 @@
+filename = 'vista-1.21-3.1.2-neoforge.jar'
+name = 'vista'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21-3.1.2-neoforge'
+
+[download]
+hash = '6423ba661980105583155eebf785cd9119a9b890273a7a914af2f5d5a4f907a550b22d8775cbf3a032ee47635e451a8a03d1d0255a1f148fcdc03d9c258264f2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zuARv1N7/versions/CxgHhorV/vista-1.21-3.1.2-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'zuARv1N7'
+version = 'CxgHhorV'

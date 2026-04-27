@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"fast"
-renderDistance:12
+renderDistance:18
 simulationDistance:12
 screenEffectScale:1.0
 soundDevice:""
@@ -48,7 +48,7 @@ mouseSensitivity:0.34507042253521125
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","file/Create-Aeronautics-RU-V1.1.0.zip","file/Create-Factory-RU-1.21.1.zip","file/Create-Confectionary-RU-1.21.1.zip","file/Create-New_Age-RU-1.21.1.zip","file/Fancy_Beds-v4.1.zip","file/SodiumTranslations.zip","file/Tyzs_skills-Dark_Theme-6.0.zip","file/Unique Dark - Lite - 1.20.2-26.x.zip","file/Xaero\u0027s World Map Translator.zip","file/Aether Regenerated v1.2.1.zip","moonlight:merged_pack","file/Vista-RU-1.21.1.zip","file/unbreakable-nez-1.21.1.zip"]
+resourcePacks:["vanilla","fabric","mod_resources","file/Create-Aeronautics-RU-V1.1.0.zip","file/Create-Factory-RU-1.21.1.zip","file/Create-Confectionary-RU-1.21.1.zip","file/Create-New_Age-RU-1.21.1.zip","file/Fancy_Beds-v4.1.zip","file/SodiumTranslations.zip","file/Tyzs_skills-Dark_Theme-6.0.zip","file/Unique Dark - Lite - 1.20.2-26.x.zip","file/Xaero\u0027s World Map Translator.zip","file/Aether Regenerated v1.2.1.zip","moonlight:merged_pack","file/Vista-RU-1.21.1.zip","file/unbreakable-nez-1.21.1.zip","file/Skylands panorama.zip"]
 incompatibleResourcePacks:["file/Xaero\u0027s World Map Translator.zip","file/Aether Regenerated v1.2.1.zip"]
 lastServer:
 lang:ru_ru
@@ -209,11 +209,11 @@ key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.e:SHIFT
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
 key_simulated.keyinfo.rotate_mode:key.keyboard.tab
 key_simulated.keyinfo.scroll_up:key.keyboard.unknown
 key_simulated.keyinfo.scroll_down:key.keyboard.unknown
