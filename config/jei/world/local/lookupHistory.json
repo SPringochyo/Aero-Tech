@@ -1,5 +1,9 @@
 [
   {"version":1},
+  {"ingredient":{"id":"create:pulp"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:cardboard"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:cardboard_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:cardboard_sword","components":{"minecraft:repair_cost":1,"minecraft:enchantments":{"levels":{"minecraft:knockback":2}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"vista:television"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"vista:viewfinder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"unbreakable_netherite_pickaxe:unbreakable_netherite_pickaxe"},"type":"item_stack","bookmarkType":"INGREDIENT"},

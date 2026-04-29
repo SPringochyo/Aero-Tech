@@ -1,4 +1,4 @@
-filename = 'create_sky_village-0.0.37 NeoForge 1.21.1.jar'
+filename = 'create_sky_village-0.0.38 NeoForge 1.21.1.jar'
 name = 'Create: Sky Village'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -7,11 +7,11 @@ x-prismlauncher-release-type = 'release'
 x-prismlauncher-version-number = '0.0.38'
 
 [download]
-hash = '4c9d33f45231dfaf89a55b045d2f2a9b906e47e0cc8d8fb33d6956280f6abaf88b584ed919f0c717b7b588e8608bbcbf978b2c3111b46b8a4b9d77e3fb8c2286'
+hash = 'e535c100f16d4c3a0e7b3bba3e210b2dd6388504130ebabeb5f64b206474dbfd7c9b75388b6175e07944ada4d88dc51042f066a6094a40ab41374c8740a157de'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/1sKEbgoN/versions/o4J0VU17/create_sky_village-0.0.37 NeoForge 1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/1sKEbgoN/versions/W6ckOMnh/create_sky_village-0.0.38 NeoForge 1.21.1.jar'
 
 [update.modrinth]
 mod-id = '1sKEbgoN'
-version = 'o4J0VU17'
+version = 'W6ckOMnh'

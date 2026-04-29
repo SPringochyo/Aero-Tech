@@ -35,3 +35,7 @@
 	maxIslandSize = 16
 	#Print detailed Sky Village structure selection and placement logs.
 	debugSkyVillageGeneration = false
+	#Extra Y offset applied to both bundled Sky Village structures during world generation. Positive values generate higher, negative values lower. Changes affect only newly generated chunks.
+	# Default: 0
+	# Range: -256 ~ 256
+	skyVillageHeightOffset = 0
