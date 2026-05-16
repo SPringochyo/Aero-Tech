@@ -1,4 +1,4 @@
-<img src="gallery/Aero Tech Preview.jpg">
+<img src="gallery/minecraft_title_new_max.png">
 
 Свежую версию смотрите в релизах \
 Больше в моем [тгк](https://t.me/SPringochyosDB)
@@ -13,6 +13,12 @@
 Создавая эту сборку, я стараюсь сохранить ванильность игры в том виде, в котором всегда её представлял.
 
 Для сборки стараюсь делать переводы модов, не локализованных на русский язык.
+
+# Требования 
+Java 21
+Minecraft 1.21.1 
+NeoForge 21.1.227 
+8 Gib ОЗУ 
 
 # Моды
 - [Accessories](https://modrinth.com/mod/jtmvUHXj) [1\.1\.0\-beta\.53\+1\.21\.1]
