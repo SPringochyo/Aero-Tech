@@ -15,10 +15,10 @@
 Для сборки стараюсь делать переводы модов, не локализованных на русский язык.
 
 # Требования 
-Java 21 \
-Minecraft 1.21.1 \
-NeoForge 21.1.227 \
-8 Gib ОЗУ \
+- Java 21
+- Minecraft 1.21.1
+- NeoForge 21.1.227
+- 8 Gib ОЗУ
 
 # Моды
 - [Accessories](https://modrinth.com/mod/jtmvUHXj) [1\.1\.0\-beta\.53\+1\.21\.1]
